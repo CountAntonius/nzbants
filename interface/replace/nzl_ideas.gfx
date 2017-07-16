@@ -1,0 +1,122 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_ranfurly"
+		texturefile = "gfx/interface/ideas/idea_ranfurly.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_lionred"
+		texturefile = "gfx/interface/ideas/idea_lionred.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_idea_tui"
+		texturefile = "gfx/interface/ideas/idea_tui.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_speights"
+		texturefile = "gfx/interface/ideas/idea_speights.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_db"
+		texturefile = "gfx/interface/ideas/idea_db.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_doublebrown"
+		texturefile = "gfx/interface/ideas/idea_doublebrown.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_exportgold"
+		texturefile = "gfx/interface/ideas/idea_exportgold.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_lionbrown"
+		texturefile = "gfx/interface/ideas/idea_lionbrown.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_nzlager"
+		texturefile = "gfx/interface/ideas/idea_nzlager.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_lionred"
+		texturefile = "gfx/interface/ideas/idea_nzlager.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_oldmt"
+		texturefile = "gfx/interface/ideas/idea_oldmt.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_scrumpy"
+		texturefile = "gfx/interface/ideas/idea_scrumpy.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_thebestbeer"
+		texturefile = "gfx/interface/ideas/idea_thebestbeer.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_tui"
+		texturefile = "gfx/interface/ideas/idea_tui.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_somersbry"
+		texturefile = "gfx/interface/ideas/idea_somersbry.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_g_morgan"
+		texturefile = "gfx/interface/ideas/idea_g_morgan.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_d_seymour"
+		texturefile = "gfx/interface/ideas/idea_d_seymour.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_b_jones"
+		texturefile = "gfx/interface/ideas/idea_b_jones.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_m_hosking"
+		texturefile = "gfx/interface/ideas/idea_m_hosking.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_r_muldoon"
+		texturefile = "gfx/interface/ideas/idea_r_muldoon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_t_james"
+		texturefile = "gfx/interface/ideas/idea_t_james.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_p_leitch"
+		texturefile = "gfx/interface/ideas/idea_p_leitch.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_s_hansen"
+		texturefile = "gfx/interface/ideas/idea_s_hansen.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_r_douglas"
+		texturefile = "gfx/interface/ideas/idea_r_douglas.dds"
+	}
+}

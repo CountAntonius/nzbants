@@ -1,0 +1,24 @@
+
+state={
+	id=744
+	name="STATE_744" # Waikato
+	manpower = 183482
+	
+	state_category = town
+	
+	history={
+		owner = NZL
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			7887 2
+		}
+		add_core_of = NZL
+	}
+
+	provinces={
+		7887 12664 12362 1746 10710 4718
+	}
+}

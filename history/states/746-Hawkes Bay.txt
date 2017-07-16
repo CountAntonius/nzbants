@@ -1,0 +1,22 @@
+
+state={
+	id=746
+	name="STATE_746" # Hawkes Bay
+	manpower = 832460
+	
+	state_category = rural
+	
+	history={
+		owner = NZL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = NZL
+	}
+
+	provinces={
+		1801 10609 4748 7742
+	}
+}
